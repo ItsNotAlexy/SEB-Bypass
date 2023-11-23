@@ -21,7 +21,7 @@ Creation by [AlexyyDev](https://github.com/ItsNotAlexy) made for Educational Pur
 ![image](https://github.com/ItsNotAlexy/SEB-Bypass/assets/101402577/a9cf6c15-67e2-43ea-9a67-4a4b33ddf21e)
 - Close the SEB Configuration Tool and launch SEB on your virtual machine!
 
-# Custom Configuration
+# Bypass Custom Configuration
 In a case where your school makes you download a "SEB Configuration File" you can follow these steps:
 - Find the SEB Configuration File (Can be identified with the SEB Logo with a black/grey colour scheme)
 - Then right click on the file and click "Open With" and choose notepad.
@@ -36,3 +36,6 @@ In a case where your school makes you download a "SEB Configuration File" you ca
   <br>![image](https://github.com/ItsNotAlexy/SEB-Bypass/assets/101402577/81612324-edb9-46a5-a6e3-cb0d521ce0b0)
 
 - Save the file and launch SEB with double clicking the configuration file
+
+- Another way to bypass an SEB Configuration file is by downloading this premade bypass settings [here](https://github.com/ItsNotAlexy/SEB-Bypass/raw/main/SebBypassSettings.seb)
+- Download the file and double click the file to automatically launch SEB with the VMWare bypass configurations
