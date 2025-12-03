@@ -1,7 +1,3 @@
-<div align="center">
-    <img style="width: 350px;height:350px;" src="https://github.com/ItsNotAlexy/SEB-Bypass/assets/101402577/5d66e32b-79fa-4890-98b8-c6c4d18bfd52">
-</div>
-
 # SEB-Bypass
 A way to bypass SEB (Safe Exam Browser) with VMWare.
 
