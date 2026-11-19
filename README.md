@@ -48,4 +48,4 @@ In a case where your school makes you download a "SEB Configuration File" you ca
 
 
 # LICENSE
-This Repository is under the MIT License and a Property of RTC. &copy;
+This Repository is under the MIT License and a Property of alexyy.dev@gmail.com &copy;
